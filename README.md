@@ -15,6 +15,7 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 
 <br/>
 <br/>
+
 **June Results** <br/>
 <img src = "https://github.com/JoseCalucag/Surfs_Up/blob/main/June_describe.png" width="200" hieight="400">
 
