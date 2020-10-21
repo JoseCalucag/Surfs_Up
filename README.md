@@ -10,10 +10,7 @@
 The purpose of the analysis is well defined. (3 pt)
 Explain the purpose of this analysis.
 
-I was tapped 
-
-W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
-
+The purpose of this analysis is to pull temperature statistics from the Hawaiian island of Oahu. With using this data, my client wants to see if it's feasible to run their surf shop and ice cream business all year round. The way we get the temperature data is by running two seperate queries, one being for June and the other being December. Once we run our queries we store the temperatures in a list then convert them to a dataframe. Once our dataframe is created we are able to get our summary statistics by using the .describe() method. 
 
 <h3>Results</h3>
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
