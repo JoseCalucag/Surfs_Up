@@ -14,7 +14,7 @@ There is a bulleted list that addresses the three key differences in weather bet
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
 <br/>
-
+<br/>
 **June Results** <br/>
 <img src = "https://github.com/JoseCalucag/Surfs_Up/blob/main/June_describe.png" width="200" hieight="400">
 
