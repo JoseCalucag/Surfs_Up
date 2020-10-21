@@ -7,12 +7,13 @@
  </p>
  
 <h3>Overview of the analysis</h3>
-The purpose of this analysis is to look at temperature statistics from the Hawaiian island of Oahu. With this data, my client wants to see if it's feasible to run their surf shop and ice cream business all year round. To do this, I took the temperature data and ran two seperate queries, one being for June and the other being December. Once the queries were created, I stored the temperatures in a list then convert them to a dataframe and then created statistical summaries of the targeted months by using the .describe() method.
+The purpose of this analysis is to look at temperature statistics from the Hawaiian island of Oahu. With this data, my client wants to see if it's feasible to run their surf shop and ice cream business all year round. So, by taking this dataset, I took the raw temperature data and filtered it into two seperate queries, one for June and the other for December. Once the queries were created, I stored them into lists, converted them into dataframes and then created statistical summaries of the targeted months by using the .describe() method.
 
 <h3>Results</h3>
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
+<br/>
 
 **June Results** <br/>
 <img src = "https://github.com/JoseCalucag/Surfs_Up/blob/main/June_describe.png" width="200" hieight="400">
@@ -22,15 +23,10 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 <img src = "https://github.com/JoseCalucag/Surfs_Up/blob/main/Dec_describe.png" width="200" hieight="400">                                                        
 <br/>
 
+As we look at the summaries for both months, we can point out some key differences:
+* The count is low in December by 183 days. That is possible because December has an extra day than June. Outside of that, we can conclude that possible missing data due to NaN and incomplete data.
+* Obviously, we are seeing lower temperatures in December; but not as drastic considering we're in a fairly tropical environment. For instance, we're seeing a 8 degree difference in the lower quartile (25%) while we're seeing only a 3 degree difference in the high quartile (75%).
+* The Standard Variation is .5 higher in June. So, we're seeing more variation in temperatures in June where we're seeing more constant temps in December.
 
 <h3>Summary</h3>
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
+Simply, we can see that the temperatures are fairly even keel without not so much deviation. Like, you are in Oahu with tropic weather fronts! So, temerature wise, you're gonna see basically the same weather all year round. For future analysis, we should see other weather data like precipitation and humidity levels annually to see how it would effect customer traffic. Furthermore, I would also see tourist data from hotel and airlines to see if this can also effect your business.
