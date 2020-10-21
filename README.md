@@ -7,9 +7,6 @@
  </p>
  
 <h3>Overview of the analysis</h3>
-The purpose of the analysis is well defined. (3 pt)
-Explain the purpose of this analysis.
-
 The purpose of this analysis is to pull temperature statistics from the Hawaiian island of Oahu. With using this data, my client wants to see if it's feasible to run their surf shop and ice cream business all year round. The way we get the temperature data is by running two seperate queries, one being for June and the other being December. Once we run our queries we store the temperatures in a list then convert them to a dataframe. Once our dataframe is created we are able to get our summary statistics by using the .describe() method. 
 
 <h3>Results</h3>
