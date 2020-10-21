@@ -7,7 +7,7 @@
  </p>
  
 <h3>Overview of the analysis</h3>
-The purpose of this analysis is to pull temperature statistics from the Hawaiian island of Oahu. With using this data, my client wants to see if it's feasible to run their surf shop and ice cream business all year round. The way we get the temperature data is by running two seperate queries, one being for June and the other being December. Once we run our queries we store the temperatures in a list then convert them to a dataframe. Once our dataframe is created we are able to get our summary statistics by using the .describe() method. 
+The purpose of this analysis is to look at temperature statistics from the Hawaiian island of Oahu. With this data, my client wants to see if it's feasible to run their surf shop and ice cream business all year round. To do this, I took the temperature data and ran two seperate queries, one being for June and the other being December. Once the queries were created, I stored the temperatures in a list then convert them to a dataframe and then created statistical summaries of the targeted months by using the .describe() method.
 
 <h3>Results</h3>
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
