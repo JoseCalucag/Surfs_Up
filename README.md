@@ -6,11 +6,11 @@
      width="700" height="300">
  </p>
  
-<h3>Overview of the analysis</h3>
+<h2>Overview of the analysis</h2>
 
 My client tapped me to do an analysis of temperature statistics of the Hawaiian island of Oahu. He wants to see if it's feasible to run his surf shop and ice cream business all year round. By taking the temperature data, we filtered two seperate queries for the months of June and December. The data was then stored into lists and converted into dataframes. Then, I created statistical summaries for each month by using the .describe() method.
 
-<h3>Results</h3>
+<h2>Results</h2>
 <br/>
 
 **June Results** <br/>
@@ -26,5 +26,5 @@ As we look at the summaries for both months, we can point out some key differenc
 * Obviously, we are seeing lower temperatures in December; but not as drastic considering we're in a fairly tropical environment. For instance, we're seeing a 8 degree difference in the lower quartile (25%) while we're seeing only a 3 degree difference in the high quartile (75%).
 * The Standard Variation is .5 higher in June. So, we're seeing more variation in temperatures in June where we're seeing more constant temps in December.
 
-<h3>Summary</h3>
+<h2>Summary</h2>
 Simply, we can see that the temperatures are fairly even keel without so much deviation. Like, you are in a tropical city! You are generally going see the same temperature all year round. For future analysis, my client should consider looking at other weather factors like precipitation and humidity  to see how it they can effect consumer traffic. Furthermore, my client should also consider seeing data from hotel and airlines to see if there was an influx of tourists coming in for June and December.
