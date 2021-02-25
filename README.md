@@ -14,11 +14,11 @@ My client tapped me to do an analysis of temperature statistics of the Hawaiian 
 <br/>
 
 **June Results** <br/>
-<img src = "https://github.com/JoseCalucag/Surfs_Up/blob/main/June_describe.png" width="200" hieight="400">
+<img src = "https://github.com/JoseCalucag/Surfs_Up/blob/main/Resources/June_describe.png" width="200" hieight="400">
 
 
 **December Results** <br/>
-<img src = "https://github.com/JoseCalucag/Surfs_Up/blob/main/Dec_describe.png" width="200" hieight="400">                                                        
+<img src = "https://github.com/JoseCalucag/Surfs_Up/blob/main/Resources/Dec_describe.png" width="200" hieight="400">                                                        
 <br/>
 
 As we look at the summaries for both months, we can point out some key differences:
